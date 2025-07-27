@@ -13,6 +13,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  base: '/grant-evaluation-web/',
-  publicDir: 
+  base: '/grant-evaluation-web/'
 })
