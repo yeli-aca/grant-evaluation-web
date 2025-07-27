@@ -1,32 +1,45 @@
-# grant-quiz-demo
+# grant-evaluation-web
 
-This template should help get you started developing with Vue 3 in Vite.
+## ⭐ Features
 
-## Recommended IDE Setup
+This tool helps streamline the evaluation process and visualizes the scoring outcome, making it easier to compare and prioritize funders, you can:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Input a funder’s name.
+- Answer 10 yes/no questions related to funding criteria.
+- Get access to automatically calculated score (out of 10) and the ranking among all funders.
 
-## Type Support for `.vue` Imports in TS
+## 📔 About Project
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+This project (_B4H-MI-GEW-YM2025_) was developed as part of a micro-internship hosted by _King’s College London_ (Micro-Internship Program), focusing on identifying and evaluating potential grant-making organizations for a non-profit client.
 
-## Customize configuration
+- 🧩 **Project Overview**
+  The main goal of this micro-internship was to assess various philanthropic funders and determine which are most aligned with the client’s mission. Our team analyzed multiple grant sources, scored them using a set of predefined criteria, and produced a summary report and presentation for the client.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- 💻 **My Contribution**
+  To support our team’s research and enhance interactivity, I designed and implemented this entire web-based tool by myself.
 
-## Project Setup
+- 🔧 **Technologies Used**
+  - HTML, CSS, Typescript
+  - Vue 3.5.17, vite 7.0.5, Inspira UI
+  - Currently, only the front end is being used.
 
-```sh
-npm install
-```
+## 🧷 Uasage
 
-### Compile and Hot-Reload for Development
+See [demo](https://vite.dev/config/) hosted by _github pages_.
 
-```sh
-npm run dev
-```
+## 📂 Configuration
 
-### Type-Check, Compile and Minify for Production
+- If you want to **reconfigure the questions**, please edit `/src/assets/questions.json`
+- If you want to **change the preset grants used for evaluating the comparison**, please edit `/src/assets/grants.json`
+
+## 📠 Recompilation
+
+### 1. Prerequirements
+
+- Nodejs 22.16.0
+- Vite 7.0.5
+
+### 2. Building
 
 ```sh
 npm run build
