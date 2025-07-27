@@ -39,7 +39,12 @@ See [demo](https://vite.dev/config/) hosted by _github pages_.
 - Nodejs 22.16.0
 - Vite 7.0.5
 
-### 2. Building
+### 2. Installation
+```sh
+npm install
+```
+
+### 3. Building
 
 ```sh
 npm run build
