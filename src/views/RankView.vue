@@ -195,7 +195,7 @@ onMounted(() => {
       ref="podiumAnimPlayerRef"
       style="height: 28rem; width: 38rem"
       :speed="1.8"
-      src="/podium.lottie"
+      src="/grant-evaluation-web/podium.lottie"
     />
     <AnimatedList :delay="150">
       <template #default>
@@ -230,11 +230,11 @@ onMounted(() => {
 
 .second-price-name {
   top: 10rem;
-  right: 50%;
+  right: 51%;
 }
 
 .third-price-name {
   top: 13rem;
-  left: 50%;
+  left: 51%;
 }
 </style>
