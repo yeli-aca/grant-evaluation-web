@@ -25,7 +25,7 @@ This project (_B4H-MI-GEW-YM2025_) was developed as part of a micro-internship h
 
 ## 🧷 Uasage
 
-See [demo](https://vite.dev/config/) hosted by _github pages_.
+See [demo](https://yeli-aca.github.io/grant-evaluation-web/) hosted by _github pages_.
 
 ## 📂 Configuration
 
