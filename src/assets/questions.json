@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Does the funder support topics that are highly relevant to the client's project?",
+    "yes_score": 1,
+    "no_score": 0
+  },
+  {
+    "question": "Has the funder provided support in the country or region where your project will take place?",
+    "yes_score": 1,
+    "no_score": 0
+  },
+  {
+    "question": "Does the funder accept applications from nonprofits, student teams, or early-stage initiatives?",
+    "yes_score": 1,
+    "no_score": 0
+  },
+  {
+    "question": "Is the amount of funding offered within your target budget range?",
+    "yes_score": 1,
+    "no_score": 0
+  },
+  {
+    "question": "Has the funder supported similar projects or organizations in the past 3 years?",
+    "yes_score": 1,
+    "no_score": 0
+  },
+  {
+    "question": "Is there an open funding round or opportunity available currently or in the near future?",
+    "yes_score": 1,
+    "no_score": 0
+  },
+  {
+    "question": "Does the funder clearly publish the funding process or application guidelines?",
+    "yes_score": 1,
+    "no_score": 0
+  },
+  {
+    "question": "Does the funder provide clear evaluation criteria or review mechanisms?",
+    "yes_score": 1,
+    "no_score": 0
+  },
+  {
+    "question": "Does the funder require specific evaluation of project outcomes or impact?",
+    "yes_score": 1,
+    "no_score": 0
+  },
+  {
+    "question": "Does the funder emphasize long-term impact or sustainability as a key selection criterion?",
+    "yes_score": 1,
+    "no_score": 0
+  }
+]
